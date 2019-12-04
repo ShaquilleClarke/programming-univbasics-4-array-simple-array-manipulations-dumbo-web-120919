@@ -12,4 +12,4 @@ end
 
 def pop_with_args(dog_breeds)
   dog_breeds.pop(["Chihuahua", "Shiba Inu"].to_s)
-end  
+end
